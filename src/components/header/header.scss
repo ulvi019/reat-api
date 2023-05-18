@@ -1,0 +1,22 @@
+.header{
+     width: 100%;
+     height:auto;  
+   padding: 10px 0;
+     background-color: brown;
+     .boxes{color: #fff;
+          .logo{
+               width: 17% !important;
+               img{width: 100%; }
+          }
+          .nav-bar{
+               ul{
+                    li{
+                         padding: 10px;
+                         .active{
+                              color: gray;
+                         }
+                    }
+               }
+          }
+     }
+}
